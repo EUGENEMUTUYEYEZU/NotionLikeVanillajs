@@ -16,6 +16,94 @@
     padding: 0.3rem 0 10rem 0.3rem;
     box-shadow: 0 0 15px lightgrey;
   }
+
+
+  .header {
+    color: rgba(0, 0, 0, 0.565);
+    margin-bottom: 30px;
+    display: flex;
+ }
+
+ .paths {
+    flex: 1;
+ }
+
+ .editing-pub {
+    display: flex;
+    gap: 10px;
+ }
+
+ .editing {
+    border-right: 1px solid rgba(0, 0, 0, 0.565);
+    padding-right: 10px;
+ }
+
+ .publish {
+    color: rgba(25, 87, 142, 0.821);
+    font-weight: 400;
+ }
+
+ .book-icon ion-icon {
+    vertical-align: middle;
+    font-size: 23px;
+ }
+
+ .back-arrow {
+    height: 6px;
+ }
+
+ .editor{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    padding: 10px;
+    display: flex;
+    border-radius: 7px;
+    /* width: 80%; */
+    margin: 0 auto;
+ }
+
+ .title {
+   width: 80%;
+   margin: 0 auto;
+   border-bottom: 1px solid rgba(0, 0, 0, 0.565);
+   padding: 30px 20px 20px 0;
+ }
+
+ .editor .icons {
+    display: flex;
+    gap: 10px;
+    flex: 1;
+ }
+
+ .p-icon {
+    background-color: rgb(16, 131, 16);
+    font-weight: bold;
+    font-size: 30px;
+    align-self: center;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 4px;
+ }
+
+ .drop-down {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.565);
+ }
+
+ .min-icon, .lap-icon, .down-icon {
+    align-self: center;
+ }
+
+ .min-icon ion-icon {
+    align-self: center;
+ }
+
+ .flex-end-nav{
+    display: flex;
+    gap: 5px;
+    align-self: center;
+ }
+
   
   .menu > div > p {
     font-weight: bold;

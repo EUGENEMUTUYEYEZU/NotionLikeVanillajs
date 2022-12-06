@@ -16,9 +16,34 @@
     <title>Notion</title>
 </head>
 <body>
-    <header>
-        <h1>My notes</h1>
-    </header>
+    <div class = "header">
+        <div class="paths">
+          <span class="back-arrow">》</span>
+          <span class="book-icon"> &nbsp; &nbsp; <ion-icon name="book"></ion-icon> Main</span>
+          <span> &nbsp; / </span>
+          <span> Getting started </span>
+          <span>&nbsp; /</span>
+          <span> &nbsp; Frontend developer testing proje... </span>
+        </div>
+        <div class = "editing-pub">
+          <div class="editing"> <ion-icon name="unlock"></ion-icon> Editing</div>
+          <div class="publish">Publish space <span class="drop-down">⌄</span> </div>
+        </div>
+    </div>
+    <div class="editor">
+        <div class="icons">
+          <div class="p-icon"> p </div>
+          <div class="min-icon"> <ion-icon name="time"></ion-icon> 0 min </div>
+          <div class="lap-icon"> <ion-icon name="cloud-circle"></ion-icon> </div>
+          <div class="down-icon"> <ion-icon name="arrow-down"></ion-icon> 0</div>
+        </div>
+        <div class="flex-end-nav">
+          <div class="check-icon"><ion-icon name="checkmark-circle-outline"></ion-icon></div>
+          <div class="cloud-icon"><ion-icon name="cloud-outline"></ion-icon></div>
+          <div class="dots"><ion-icon name="more"></ion-icon></div>
+        </div>
+      </div>
+    <h1>My notes</h1>
    <section class="main">
     <div class="content"></div>
     <div>
@@ -34,5 +59,6 @@
     </div>
    </section>
    <script type="module" src="./index.js"></script>
+   <script type="module" src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons/ionicons.esm.js"></script>
 </body>
 </html>
