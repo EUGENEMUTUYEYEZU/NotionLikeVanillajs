@@ -60,7 +60,7 @@ This is a simple app allowing user to select a wanted type of heading
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://glistening-malabi-a0e2b9.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
