@@ -135,7 +135,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank [Helpjuice](http://www.helpjuice.com/?utm_source=linkedin&utm_medium=social) for this task that has enabled me to learn something new
+> I would like to thank [Helpjuice](http://www.helpjuice.com/?utm_source=linkedin&utm_medium=social) for this task that has enabled me to learn something new and it is owesome and has a lot of knowledg 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
